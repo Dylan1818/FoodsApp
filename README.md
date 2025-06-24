@@ -12,7 +12,7 @@ Proyek ini merupakan tugas Mata Kuliah Mobile Programming 2 yang bertujuan untuk
 Proyek ini dibuat untuk memenuhi tugas akademik sekaligus sebagai sarana pembelajaran dalam memahami konsep-konsep lanjutan dalam pemrograman mobile, khususnya pada platform Android.
 
 ## Author
-- **Nama**: Muhammad Muslim Abdul Jabbaar  
+- **Nama**: Dilan Muhamad Ramdani
 - **NIM**: 217200035  
 - **Jurusan**: Teknik Informatika  
 - **Semester**: 8  
