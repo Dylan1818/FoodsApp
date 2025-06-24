@@ -13,7 +13,7 @@ Proyek ini dibuat untuk memenuhi tugas akademik sekaligus sebagai sarana pembela
 
 ## Author
 - **Nama**: Dilan Muhamad Ramdani
-- **NIM**: 217200035  
+- **NIM**: 217200002 
 - **Jurusan**: Teknik Informatika  
 - **Semester**: 8  
 
